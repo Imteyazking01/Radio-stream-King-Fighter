@@ -1,6 +1,6 @@
 """
-RadioPlayerV2, Telegram Voice Chat Userbot
-Copyright (C) 2021  Asm Safone <https://t.me/asmsafone>
+RadioPlayerKING, Telegram Voice Chat Userbot
+Copyright (C) 2021  KING FIGHTER <https://t.me/King_fighter_Bot_support>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -21,7 +21,7 @@ import re
 
 
 class Config:
-    ADMIN = os.environ.get("ADMINS", "1316963576")
+    ADMIN = os.environ.get("ADMINS", "1799098485")
     ADMINS = [int(admin) if re.search('^\d+$', admin) else admin for admin in (ADMIN).split()]
     API_ID = int(os.environ.get("API_ID", 12345))
     CHAT = int(os.environ.get("CHAT", ""))
