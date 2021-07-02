@@ -21,7 +21,7 @@ import re
 
 
 class Config:
-    ADMIN = os.environ.get("ADMINS", "1799098485")
+    ADMIN = os.environ.get("ADMINS", "1827275150")
     ADMINS = [int(admin) if re.search('^\d+$', admin) else admin for admin in (ADMIN).split()]
     API_ID = int(os.environ.get("API_ID", 12345))
     CHAT = int(os.environ.get("CHAT", ""))
