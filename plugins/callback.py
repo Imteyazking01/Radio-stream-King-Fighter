@@ -1,6 +1,6 @@
 """
-RadioPlayerV2, Telegram Voice Chat Userbot
-Copyright (C) 2021  Asm Safone
+RadioPlayerKING, Telegram Voice Chat Userbot
+Copyright (C) 2021  KING FIGHTER Radio
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -152,7 +152,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         except:
             pass
     elif query.data=="help":
-        await query.edit_message_text("🙋‍♂️ **Hi Bruh**, \nJust Send Me An Audio File To Play. You Can Use @SafoneMusicBot To Get Audio Files! 😌\n\nCheck /help To Know More ...",
+        await query.edit_message_text("🙋‍♂️ **Hi Bruh**, \nJust Send Me An Audio File To Play. You Can Use @KING_FIGHTER_MUSIC_BOT To Get Audio Files! 😌\n\nCheck /help To Know More ...",
         reply_markup=InlineKeyboardMarkup(
                 [
                     [
