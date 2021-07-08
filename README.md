@@ -1,21 +1,21 @@
 # Telegram Radio Player KING FIGHTER BOT
-![GitHub Repo stars](https://img.shields.io/github/stars/AsmSafone/RadioPlayerV2?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/AsmSafone/RadioPlayerV2?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/AsmSafone/RadioPlayerV2)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AsmSafone/RadioPlayerV2)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AsmSafone/RadioPlayerV2)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AsmSafone/RadioPlayerV2)
-![GitHub contributors](https://img.shields.io/github/contributors/AsmSafone/RadioPlayerV2?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/RadioPlayerV2?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/RadioPlayerV2)
-![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV2)
+![GitHub Repo stars](https://img.shields.io/github/stars/Imteyazking01/Radio-Player-KING-FIGHTER?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Imteyazking01/Radio-Player-KING-FIGHTER?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/Imteyazking01/Radio-Player-KING-FIGHTER)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Imteyazking01/Radio-Player-KING-FIGHTER)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Imteyazking01/Radio-Player-KING-FIGHTER)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Imteyazking01/Radio-Player-KING-FIGHTER)
+![GitHub contributors](https://img.shields.io/github/contributors/Imteyazking01/Radio-Player-KING-FIGHTER?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/Imteyazking01/Radio-Player-KING-FIGHTER?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Imteyazking01/Radio-Player-KING-FIGHTER)
+![GitHub](https://img.shields.io/github/license/Imteyazking01/Radio-Player-KING-FIGHTER)
 [![Bot Support](https://img.shields.io/badge/Radio%20Player%20V2-support%20group-blue)](http://t.me/KING_FIGHTER_Radio_Bot)
 
 
 An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
-Radio in [KING FIGHTER](https://t.me/King_MusicSupport) Channel & Music in [KINGTheBot](http://t.me/KING_FIGHTER_Radio_Bot) Group.
+Radio in [KING FIGHTER](https://t.me/King_MusicSupport) Channel & Music in [KINGTheBot](http://t.me/KING_FIGHTER_Radio_Bot) Group. @King_fighter_support
 
 ## Special Features
 
