@@ -9,13 +9,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/RadioPlayerV2?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/RadioPlayerV2)
 ![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV2)
-[![Bot Support](https://img.shields.io/badge/Radio%20Player%20V2-support%20group-blue)](https://t.me/safothebot)
+[![Bot Support](https://img.shields.io/badge/Radio%20Player%20V2-support%20group-blue)](https://t.me/King_fighter_Bot_support)
 
 
 An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
-Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](https://t.me/safothebot) Group.
+Radio in [Imteyaz](https://t.me/King_fighter_Bot_support) Channel & Music in [@KING_FIGHTER_Radio_Bot](https://t.me/KING_FIGHTER_Radio_Bot) Group.
 
 ## Special Features
 
@@ -28,7 +28,7 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](htt
 
 ## Deploy to Heroku (The Easy Way)
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayerV2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Imteyazking01/Radio-Player-KING-FIGHTER"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deploying!
 
 ## Heroku Vars:
@@ -45,7 +45,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 - Bot will starts radio automatically in given `CHAT` with given `STREAM_URL` after deploy. 
 - 24x7 Music even if heroku restarts, radio stream restarts automatically.  
 - To play a song just send the audio file to Bot or reply to an audio with `/play` to start playing it in the voice chat.
-- To download audio you can use [@SafoneMusicBot](http://t.me/SafoneMusicBot) or `/song` command to the bot.
+- To download audio you can use [@KING_FIGHTER_Radio_Bot](http://t.me/KING_FIGHTER_Radio_Bot) or `/song` command to the bot.
 - Use `/help` to know about other commands & its usage.
 
 ## Requirements
@@ -62,7 +62,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 ## Run On VPS (The Hard Way)
 
 ```sh
-$ git clone https://github.com/AsmSafone/RadioPlayerV2
+$ git clone https://github.com/Imteyazking01/Radio-Player-KING-FIGHTER
 $ cd RadioPlayerV2
 $ sudo apt-get install python3-pip ffmpeg
 $ pip3 install -U pip
@@ -94,7 +94,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 ```
 ## Credits
 
-- [Asm Safone](https://github.com/AsmSafone) [Dev]
+- [Imteyaz](https://github.com/Imteyazking01/Radio-Player-KING-FIGHTER) [Dev]
 - [Dash Eclipse](https://github.com/dashezup) [Dev]
 - [Il'ya](https://github.com/MarshalX) [For tgcalls]
 - [Subin](https://github.com/subinps) [For bot support]
